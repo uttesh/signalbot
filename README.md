@@ -2,8 +2,6 @@
 
 **SignalBot** is a React web app for visualizing Wi-Fi and mobile signal strength as you move, both indoors and outdoors. It features real-time signal measurement, history graphing, and mapping of your signal trail.
 
-![SignalBot Logo](public/signalbot-logo.svg)
-
 ## Features
 
 - 📶 **Live Signal Strength**: Measures and displays your current Wi-Fi/mobile speed.
@@ -11,6 +9,15 @@
 - 🗺️ **Outdoor Map**: Plots your movement and signal strength on an interactive map.
 - 🏢 **Indoor Map**: Visualizes your trail and signal regions on a building floor plan.
 - 🟢🔴 **Signal Regions**: Shows green (good) and red (poor) areas based on your signal.
+
+## Screenshots
+
+<p align="center">
+  <img src="app_screen_shot_1.png" alt="SignalBot Screenshot 1" width="320" style="margin:8px;" />
+  <img src="app_screen_shot_2.png" alt="SignalBot Screenshot 2" width="320" style="margin:8px;" />
+  <img src="app_screen_shot_3.png" alt="SignalBot Screenshot 3" width="320" style="margin:8px;" />
+  <img src="app_screen_shot_4.png" alt="SignalBot Screenshot 4" width="320" style="margin:8px;" />
+</p>
 
 ## Getting Started
 
